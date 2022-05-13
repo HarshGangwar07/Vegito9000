@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vegito9000
 - 👀 I’m interested in AI,computer vision
 - 🌱 I’m currently learning Deep Learning 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - hgangwar07@gmail.com
 
 <!---
