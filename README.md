@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vegito9000
+- 👋 Hi, I’m Harsh Gangwar
 - 👀 I’m interested in AI,computer vision
 - 🌱 I’m currently learning Deep Learning 
 - 📫 How to reach me - hgangwar07@gmail.com
