@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Harsh Gangwar
-- 👀 I’m interested in AI,computer vision
-- 🌱 I’m currently learning Deep Learning 
+- 👋 Hi there
+- 👀 I’m currently learning Backend Development in Python + Django + Postgre 
+- 🌱 I have a keen interest in AI/ML.
 - 📫 How to reach me - hgangwar07@gmail.com
 
 <!---
