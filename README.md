@@ -1,5 +1,5 @@
 - 👋 Hi there
-- 👀 I’m currently learning Backend Development in Python + Django + Postgre tech stack.
+- 👀 I’m currently learning Backend Development in Python + Django .
 - 🌱 I have a keen interest in AI/ML.
 - 📫 How to reach me - hgangwar07@gmail.com
 
